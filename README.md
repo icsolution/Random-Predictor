@@ -1,0 +1,2 @@
+# Random-Predictor
+A game where user is instructed to initially input a random string of 0s and 1s for a minimum of 100 characters so to be used as data, and user begins game with an account balance of $1000. ct what the user will inputWith this information the computer is able to process the data for patterns, ask the user to input a new string, and predi next. The result is then compared and displayed to the user. If the user decides to continue, he wins $1 for every time the computer guesses wrong, and loses $1 every time the computer decides correctly.
